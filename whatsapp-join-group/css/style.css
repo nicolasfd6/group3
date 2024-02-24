@@ -1,0 +1,28 @@
+.container {
+  max-width: 450px;
+}
+
+.container .row .gam img {
+  width: 80px;
+  height: auto;
+  margin-top: 80px;
+  border-radius: 50px;
+}
+
+.container .row .p1 h3 {
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.container .row .button .btn {
+  margin-top: 10px;
+  width: 100%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 20px;
+  background-color: #33bb47;
+  border-color: #33bb47;
+  color: rgb(255, 255, 255);
+  box-shadow: 1px 7px 10px rgb(198, 198, 198);
+}
